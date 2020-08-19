@@ -1,11 +1,11 @@
-/client/node_modules
-/client/.pnp
-/client/.pnp.js
-/client/coverage
-/client/production
+./client/node_modules
+./client/.pnp
+./client/.pnp.js
+./client/coverage
+./client/production
 
-/api/node_modules
-/api/.pnp
-/api/.pnp.js
-/api/coverage
-/api/production
+./api/node_modules
+./api/.pnp
+./api/.pnp.js
+./api/coverage
+./api/production
